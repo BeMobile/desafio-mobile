@@ -2,7 +2,7 @@
 O desafio Mobile da Be consiste em montar uma tabela com as informações que virão por uma API simulada escrita em json-server. 
 A tabela deve conter as seguintes colunas: imagem e nome.
 Quando abrir mais informações mostrar: cargo, data de admissão e telefone, com todos os dados devidamente formatados e apresentados como está no figma. Além disso, deve ter a possibilidade de realizar uma pesquisa na tabela por um input. Obs: 
-[acesse aqui o figma do projeto]([https://www.figma.com/file/yw6th52zE9bubewc6ayTg5/Teste---Be-mobile?node-id=0%3A1]).
+[acesse aqui o figma do projeto](https://www.figma.com/file/yw6th52zE9bubewc6ayTg5/Teste---Be-mobile?node-id=0%3A1).
 
 ![Screenshot-mobile](https://user-images.githubusercontent.com/1697362/194322705-faf9fbbe-ce38-4c17-93f6-50750e68e542.png)
 

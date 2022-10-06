@@ -6,6 +6,8 @@ Quando abrir mais informações mostrar: cargo, data de admissão e telefone, co
 
 ![image]([https://github.com/BeMobile/backend-test/blob/main/Screenshot%20(7).png])
 
+![image]([https://drive.google.com/file/d/1A37T5-zYJwzR4gCdYpdXpv4fBBOpa5ey/view?usp=sharing])
+
 ## Condições
 Deve-se utilizar React ou Vanilla JS (JavaScript puro). O input de pesquisa deve filtrar por Cargo, Nome e Telefone. As datas e telefones devem ser formatadas no front e não na API. É permitido utilizar libs externas, mas recomenda-se que seja o mínimo possível para que consigamos avaliar melhor o seu teste. 
 

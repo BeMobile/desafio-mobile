@@ -1,11 +1,10 @@
 # Be Mobile - Desafio Mobile
-O desafio Front-end da Be consiste em montar uma tabela com as informações que virão por uma API simulada escrita em json-server. 
-A tabela deve conter as seguintes colunas: imagem, nome, cargo, data de admissão e telefone,
-com todos os dados devidamente formatados e apresentados como está no figma. Além disso, 
-deve ter a possibilidade de realizar uma pesquisa na tabela por um input. Obs: 
-[acesse aqui o figma do projeto](https://www.figma.com/file/y9qJNNAckFRL7LNoyNjpv8/Teste---Be-mobile).
+O desafio Mobile da Be consiste em montar uma tabela com as informações que virão por uma API simulada escrita em json-server. 
+A tabela deve conter as seguintes colunas: imagem e nome.
+Quando abrir mais informações mostrar: cargo, data de admissão e telefone, com todos os dados devidamente formatados e apresentados como está no figma. Além disso, deve ter a possibilidade de realizar uma pesquisa na tabela por um input. Obs: 
+[acesse aqui o figma do projeto]([https://www.figma.com/file/yw6th52zE9bubewc6ayTg5/Teste---Be-mobile?node-id=0%3A1]).
 
-![image](https://user-images.githubusercontent.com/42809136/127918010-79b5d883-df57-4c6d-8a2a-43e220d3c703.png)
+![image]([https://github.com/BeMobile/backend-test/blob/main/Screenshot%20(7).png])
 
 ## Condições
 Deve-se utilizar React ou Vanilla JS (JavaScript puro). O input de pesquisa deve filtrar por Cargo, Nome e Telefone. As datas e telefones devem ser formatadas no front e não na API. É permitido utilizar libs externas, mas recomenda-se que seja o mínimo possível para que consigamos avaliar melhor o seu teste. 

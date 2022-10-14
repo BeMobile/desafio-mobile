@@ -1,4 +1,5 @@
-[
+{
+  "employees": [
     {
       "id": 1,
       "name": "João",
@@ -72,3 +73,4 @@
       "image": "https://www.clipartmax.com/png/middle/277-2772117_user-profile-avatar-woman-icon-avatar-png-profile-icon.png"
     }
   ]
+}

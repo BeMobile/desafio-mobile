@@ -37,7 +37,7 @@ Tenha instaladas em sua máquina as ferramentas [Git](https://git-scm.com/), [No
 Para ter acesso aos dados que alimentarão o projeto, faça o seguinte:
 
 1. caso você não tenha, instale o pacote [json-server](https://github.com/typicode/json-server);
-2. clone este repositório do GitHub em sua máquina: [https://github.com/BeMobile/desafio-front-end](https://github.com/BeMobile/desafio-front-end);
+2. clone este repositório do GitHub em sua máquina: [https://github.com/BeMobile/desafio-mobile](https://github.com/BeMobile/desafio-mobile);
 3. entre na pasta do projeto, em sua máquina, e, por meio da linha de comando, execute o comando `json-server --watch db.json`, para consumir a API simulada;
 4. inicie a estrutura e o desenvolvimento do projeto.
 
